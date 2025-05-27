@@ -1,6 +1,6 @@
 # <div align="center" >AliceInCradle-NoMosaicMod</div>
 通过mod动态禁用AliceInCradle中的打码处  
-本模组基于0.27版本制作  
+本模组基于游戏0.27版本制作  
 B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_id_from=333.1007.0.0)  
 本项目使用Apache-2.0许可证，但您可以自由修改发布（选的时候搞错了），我并不会追究  
 本模组使用umm管理器实行动态加载，并非直接反编译修改
@@ -31,6 +31,7 @@ B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_
 #### (1).检查是否安装成功
 若无问题，打开游戏在闪过unity的logo后umm会正常显示，如图
 ![图1](https://github.com/Harrot114514/AliceInCradle-NoMosaicMod/blob/main/images/1.png)
+![动图](https://github.com/Harrot114514/AliceInCradle-NoMosaicMod/blob/main/images/202505280132%20(1).gif)
 其中第一个NoMosaicMod即为本模组
 #### (2).mod的启用与禁用
 因本人的技术力有限，只能做到使用模组的启用与禁用来控制效果，第一次使用时自动打开，如需要关闭如图所示点击这个即可
