@@ -1,5 +1,6 @@
 # <div align="center" >AliceInCradle-NoMosaicMod</div>
 通过mod动态禁用AliceInCradle中的打码处  
+注意，这是一个r18模组
 本模组基于游戏0.27版本制作  
 B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_id_from=333.1007.0.0)  
 本项目使用Apache-2.0许可证，但您可以自由修改发布（选的时候搞错了），我并不会追究  
