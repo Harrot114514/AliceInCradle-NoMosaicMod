@@ -1,5 +1,5 @@
 # AliceInCradle-NoMosaicMod
-通过mod动态禁用AliceInCradle中的打码处
+通过mod动态禁用AliceInCradle中的打码处  
 B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_id_from=333.1007.0.0)
 ## 模组使用方法
 ### 1.首先你需要有umm（UnityModManager，后文统称umm或UMM）
