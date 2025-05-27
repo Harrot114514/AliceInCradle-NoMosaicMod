@@ -1,0 +1,2 @@
+# AliceInCradle-NoMosaicMod
+通过mod动态禁用AliceInCradle中的打码处
