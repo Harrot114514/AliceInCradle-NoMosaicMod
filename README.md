@@ -1,10 +1,11 @@
 # AliceInCradle-NoMosaicMod
 通过mod动态禁用AliceInCradle中的打码处
+B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_id_from=333.1007.0.0)
 ## 模组使用方法
-### 1.首先你需要有umm（UnityModManager）
-这一步您可以自己寻找下载，[UMM官网](https://www.nexusmods.com/site/mods/21)
+### 1.首先你需要有umm（UnityModManager，后文统称umm或UMM）
+这一步您须自己寻找下载，[UMM官网](https://www.nexusmods.com/site/mods/21)
 ### 2.安装
-注意，该游戏暂没有配置文件，所以我自己写了，使用时先打开你的umm文件夹，找到UnityModManagerConfig.xml，打开它，在大概16行左右的	
+注意，该游戏暂没有配置文件，所以我自己写了，使用时先打开你的umm文件夹，找到UnityModManagerConfig.xml，打开它，在大概5~16行左右的	
 ~~~
 <!--<GameInfo Name="Oxygen Not Included">
 ...
@@ -24,3 +25,12 @@
 ~~~
 之后保存，打开umm安装器(UnityModManager.exe这个文件)，在下行的Game选择AliceInCradle，再下一行的Folder单击找到自己的游戏目录打开（其中有游戏本体AliceInCradle.exe），然后点击Install，在上方找到Mods，点击进入，将我的mod(即NoMosaic.zip)拖入下方的虚线框里，即安装完毕
 ### 3.游戏内用法
+#### (1).检查是否安装成功
+若无问题，打开游戏在闪过unity的logo后umm会正常显示，如图
+![图1](https://github.com/Harrot114514/AliceInCradle-NoMosaicMod/blob/main/images/1.png)
+其中第一个NoMosaicMod即为本模组
+#### (2).mod的启用与禁用
+因本人的技术力有限，只能做到使用模组的启用与禁用来控制效果，第一次使用时自动打开，如需要关闭如图所示点击这个即可
+![图2](https://github.com/Harrot114514/AliceInCradle-NoMosaicMod/blob/main/images/3.png)
+打开的话再点一下即可
+# 若出现任何问题请回忆自己是否哪一步做错了，实在不行再来B站找我
