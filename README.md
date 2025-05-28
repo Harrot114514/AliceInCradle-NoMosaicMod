@@ -13,13 +13,14 @@ B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_
 本模组使用umm管理器实行动态加载，并非直接反编译修改  
 由于某些原因，原图带马赛克，故无法去除
 ## 模组使用方法
+### 我这里提供一种更简单的模组加载器的安装，因为游戏是使用Unity引擎制作
 ### 1.首先你需要有umm（UnityModManager，后文统称umm或UMM）
 这一步您须自己寻找下载，[UMM官网](https://www.nexusmods.com/site/mods/21)
 ### 2.安装
 注意，该游戏暂没有配置文件，所以我自己写了，使用时先打开你的umm文件夹，找到UnityModManagerConfig.xml，打开它，在大概5~16行左右的	
 ~~~
 <!--<GameInfo Name="Oxygen Not Included">
-...
+...（一堆代码）
 </GameInfo>-->
 ~~~
 处按回车，输入以下代码
