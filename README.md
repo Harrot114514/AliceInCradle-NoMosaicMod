@@ -43,7 +43,7 @@ B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_
 ![动图](https://github.com/Harrot114514/AliceInCradle-NoMosaicMod/blob/main/images/202505280132%20(1).gif)
 其中第一个NoMosaicMod即为本模组
 #### (2).mod的启用与禁用
-因本人的技术力有限，只能做到使用模组的启用与禁用来控制效果，第一次使用时自动打开，如需要关闭如图所示点击这个即可
+因本人的技术力有限，只能做到使用模组的启用与禁用来控制效果，第一次使用时默认关闭，如需要打开如图所示点击这个即可
 ![图2](https://github.com/Harrot114514/AliceInCradle-NoMosaicMod/blob/main/images/3.png)
 打开的话再点一下即可
 # 若出现任何问题请回忆自己是否哪一步做错了，实在不行再来B站找我
